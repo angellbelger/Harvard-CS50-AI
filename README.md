@@ -9,7 +9,7 @@ This repository showcases my **learning journey, problem-solving skills,** and *
 
 ---
 
-## 📜 License  
+## License  
 
 Copyright (c) 2021 **Angell Belger**  
 
