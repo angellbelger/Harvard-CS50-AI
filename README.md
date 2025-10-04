@@ -4,8 +4,10 @@
 This repository showcases my **learning journey, problem-solving skills,** and **experiments in Artificial Intelligence**.
 
 ---
+<p align="center">
+  <img src="https://github.com/angellbelger/Hello-World/blob/main/images/harvardx.png?raw=true" alt="HarvardX Banner">
+</p>
 
-![HarvardX Banner](https://github.com/angellbelger/Hello-World/blob/main/images/harvardx.png?raw=true)
 
 ---
 
