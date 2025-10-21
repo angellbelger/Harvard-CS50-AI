@@ -5,7 +5,7 @@ This repository showcases my **learning journey, problem-solving skills,** and *
 
 ---
 <p align="center">
-  <img src="https://github.com/angellbelger/Hello-World/blob/main/images/harvardx.png?raw=true" alt="HarvardX Banner">
+  <img src="https://github.com/angellbelger/Hello-World/blob/main/images/harvardCS50.png?raw=true" alt="HarvarCS50 Banner">
 </p>
 
 ---
